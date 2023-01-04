@@ -1,4 +1,4 @@
-# HTML Tables Review  /Project
+# HTML Tables Review / Project
 
 Project Guidelines:
 
