@@ -1,4 +1,4 @@
-# Structuring planet data
+# Structuring Planet Data
 
 To test comprehension of HTML tables and associated features.
 
