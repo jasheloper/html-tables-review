@@ -2,6 +2,8 @@
 
 To test comprehension of HTML tables and associated features.
 
+https://jasheloper.github.io/html-tables-review/
+
 <br>
 
 ## Project Guidelines
