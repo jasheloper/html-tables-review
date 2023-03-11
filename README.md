@@ -1,13 +1,11 @@
-# Structuring Planet Data
-
-To test comprehension of HTML tables and associated features.
-
-https://jasheloper.github.io/html-tables-review/
+# Final Project (preview)
+![Structuring Planet Data final project preview](planets-data-preview.png)
 
 <br>
 
-## Final Project (preview)
-![Structuring Planet Data final project preview](planets-data-preview.png)
+## Objective
+To test comprehension of HTML tables and associated features.
+
 
 <br>
 
