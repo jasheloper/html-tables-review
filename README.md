@@ -1,8 +1,12 @@
 # Final Project (preview)
 
+Link: https://jasheloper.github.io/html-tables-review/
+
+<br>
+
 ![Structuring Planet Data final project preview](planets-data-preview.png)
 
-Link: https://jasheloper.github.io/html-tables-review/
+
 
 <br>
 
